@@ -1,6 +1,6 @@
 # Description
 
-This repository contains TeXstudio themes that are gathered from various [sources](sources) in Internet.
+This repository contains TeXstudio themes that are gathered from various [sources](TeXstudio_Themes/Sources) in Internet.
 
 
 Here is the procedure on how to apply these themes in TeXstudio
@@ -20,9 +20,9 @@ Here is the procedure on how to apply these themes in TeXstudio
 Once you restart, your desired theme will hopefully be applied.
 
 # Screenshots
-![alt Solarized_Dark](Screenshots/Solarized_Dark.png)
-![alt Solarized_Light](Screenshots/Solarized_Light.png)
+**Solarized_Dark** ![alt Solarized_Dark](Screenshots/Solarized_Dark.png)
+**Solarized_Light** ![alt Solarized_Light](Screenshots/Solarized_Light.png)
 
-![alt Monokai](Screenshots/Monokai.png)
+**Monokai** ![alt Monokai](Screenshots/Monokai.png)
 
-[Flatland]![alt Flatland](Screenshots/Flatland.png)
+**Flatland** ![alt Flatland](Screenshots/Flatland.png)

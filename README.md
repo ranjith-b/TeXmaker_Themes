@@ -1,6 +1,6 @@
 # Description
 
-This repository contains TeXstudio themes that are gathered from various [sources](TeXstudio_Themes/Sources) in Internet.
+This repository contains TeXstudio themes that are gathered from various [sources](Screenshots/Sources) in Internet.
 
 
 Here is the procedure on how to apply these themes in TeXstudio

@@ -2,10 +2,12 @@
 
 This repository contains TeXstudio themes that are gathered from various [sources](sources) in Internet.
 
-Here is the procedure on how to apply them
+
+Here is the procedure on how to apply these themes in TeXstudio
+
 **Don't forget to make a copy of your current highlighting scheme in case you want to switch back later.**
 
-**step 1 :** Open TeXstudio Application,Navigate to Options on tool bar and click save profile
+**step 1 :** Open TeXstudio Application,Navigate to Options on Toolbar and click save profile
 
 **step 2 :** Go to the folder directory where would you like to save the theme file,name the file(here it's mytheme) and clik save.So in this case the file will be saved as mytheme.txsprofile
 
@@ -19,10 +21,8 @@ Once you restart, your desired theme will hopefully be applied.
 
 # Screenshots
 ![alt Solarized_Dark](Screenshots/Solarized_Dark.png)
-[Solarized_Dark](Screenshots/Solarized_Dark.png)
+![alt Solarized_Light](Screenshots/Solarized_Light.png)
 
-[Solarized_Light](Screenshots/Solarized_Light.png)
+![alt Monokai](Screenshots/Monokai.png)
 
-[Monokai](Screenshots/Monokai.png)
-
-[Flatland](Screenshots/Flatland.png)
+[Flatland]![alt Flatland](Screenshots/Flatland.png)
